@@ -39,9 +39,9 @@ void setup() {
   typeLine("cmd");
   DigiKeyboard.delay(800);
 
-  typeLine("Artefact was here :)");
   DigiKeyboard.delay(300);
   typeLine("color 0a");
+  typeLine("echo Artefact was here :)");
   DigiKeyboard.delay(300);
   typeLine("start https://www.youtube.com/watch?v=y6120QOlsfU");
   DigiKeyboard.delay(800);
