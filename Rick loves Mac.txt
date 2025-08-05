@@ -1,0 +1,10 @@
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+ENTER
+DELAY 500
+STRING open "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+ENTER
