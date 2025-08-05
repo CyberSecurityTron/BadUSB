@@ -1,0 +1,26 @@
+DELAY 1000
+REM Open Run dialog
+GUI r
+DELAY 500
+
+STRING cmd
+ENTER
+DELAY 800
+
+REM Set terminal color and display message
+STRING color 0a
+ENTER
+STRING echo Artefact was here :)
+ENTER
+DELAY 300
+
+REM Open YouTube video
+STRING start https://www.youtube.com/watch?v=y6120QOlsfU
+ENTER
+DELAY 800
+
+REM Open browser to Artefact Lab site
+GUI r
+DELAY 500
+STRING https://www.artefactlab.me
+ENTER
