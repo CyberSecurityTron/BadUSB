@@ -2,18 +2,5 @@ DELAY 1000
 REM Open terminal (Ctrl+Alt+T)
 CTRL-ALT t
 DELAY 1000
-
-STRING printf "**********************************************\n"
-ENTER
-STRING printf "*                                            *\n"
-ENTER
-STRING printf "*     A R T E F A C T   W A S   H E R E !   *\n"
-ENTER
-STRING printf "*                                            *\n"
-ENTER
-STRING printf "**********************************************\n"
-ENTER
-
-DELAY 500
 STRING xdg-open https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ENTER
